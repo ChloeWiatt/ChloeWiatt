@@ -1,7 +1,7 @@
 # Hi there, I'm Chloé Wiatt 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/chloé-wtt-655b562ba)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:chloewiatf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:chloewiatt@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/ChloeWiatt)
 
 ### 🚀 About Me

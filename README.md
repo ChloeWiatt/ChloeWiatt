@@ -33,13 +33,13 @@ Machine Learning · Knowledge Representation · Compiler Design · Data Pipeline
 ---
 
 ### 📌 Featured Projects
-1. **[Sleep data dashboard]((https://github.com/ChloeWiatt/sleep-dashboard-project))**  
-   ▶️ A dashboard created with the Kaggle dataset ["Sleep health and lifestyle"](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).  
+1. **[Sleep Data Dashboard](https://github.com/ChloeWiatt/sleep-dashboard-project)**  
+   ▶️ A dashboard created with the Kaggle dataset ["Sleep Health and Lifestyle"](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).  
 
-2. **[Biomedical Data Interface](https://github.com/ChloeWiatt/gper-proteins-UI))**  
+2. **[Biomedical Data Interface](https://github.com/ChloeWiatt/gper-proteins-UI)**  
    ▶️ Designed a knowledge-graph-backed API for structured biomedical data.  
 
-3. **[Mini-Python Compiler](https://github.com/ChloeWiatt/compilation-project))**  
+3. **[Mini-Python Compiler](https://github.com/ChloeWiatt/compilation-project)**  
    ▶️ Built a compiler for a subset of Python (lexing/parsing in Python).  
 
 ---

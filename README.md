@@ -33,20 +33,20 @@ Machine Learning · Knowledge Representation · Compiler Design · Data Pipeline
 ---
 
 ### 📌 Featured Projects
-1. **[LLM Summarization System](https://github.com/ChloeWiatf/llm-summarizer)**  
-   ▶️ Optimized evaluation metrics for abstractive summaries using Python and HuggingFace.  
+1. **[Sleep data dashboard](https://github.com/ChloeWiatf/llm-summarizer](https://github.com/ChloeWiatt/sleep-dashboard-project))**  
+   ▶️ A dashboard created with the Kaggle dataset ["Sleep health and lifestyle"](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).  
 
-2. **[Biomedical Data Interface](https://github.com/ChloeWiatf/biomedical-api)**  
-   ▶️ Designed a knowledge-graph-backed API for structured biomedical data (Python + SQLite).  
+2. **[Biomedical Data Interface]((https://github.com/ChloeWiatt/gper-proteins-UI))**  
+   ▶️ Designed a knowledge-graph-backed API for structured biomedical data.  
 
-3. **[Mini-Python Compiler](https://github.com/ChloeWiatf/minipy-compiler)**  
+3. **[Mini-Python Compiler]((https://github.com/ChloeWiatt/compilation-project))**  
    ▶️ Built a compiler for a subset of Python (lexing/parsing in Python, codegen in Go).  
 
 ---
 
 ### 📊 GitHub Stats  
-![Chloé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChloeWiatf&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeWiatf&layout=compact&theme=radical&hide_border=true)  
+![Chloé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChloeWiatt&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeWiatt&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
@@ -61,4 +61,4 @@ Machine Learning · Knowledge Representation · Compiler Design · Data Pipeline
 I’m always open to discussing **AI research, teaching tech, or synthwave music**!  
 📧 **Email**: [chloewiatf@gmail.com](mailto:chloewiatf@gmail.com)  
 🔗 **LinkedIn**: [Chloé Wiatt](https://linkedin.com/in/chloé-wtt-655b562ba)  
-🌐 **GitHub**: [ChloeWiatf](https://github.com/ChloeWiatf)  
+🌐 **GitHub**: [ChloeWiatt](https://github.com/ChloeWiatt)  

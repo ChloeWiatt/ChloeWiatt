@@ -62,6 +62,6 @@ Machine Learning · Knowledge Representation · Compiler Design · Data Pipeline
 
 ### 📫 Let’s Connect!
 I’m always open to discussing **AI research, teaching tech, or synthwave music**!  
-📧 **Email**: [chloewiatf@gmail.com](mailto:chloewiatf@gmail.com)  
+📧 **Email**: [chloewiatt@gmail.com](mailto:chloewiatf@gmail.com)  
 🔗 **LinkedIn**: [Chloé Wiatt](https://linkedin.com/in/chloé-wtt-655b562ba)  
 🌐 **GitHub**: [ChloeWiatt](https://github.com/ChloeWiatt)  

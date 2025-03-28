@@ -14,12 +14,15 @@ I’m a **Computer Science Student @ Télécom Nancy** passionate about **AI, Da
 ---
 
 ### 🛠️ Tech Stack
-**Languages:**  
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)
+
 
 **Tools & Frameworks:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
